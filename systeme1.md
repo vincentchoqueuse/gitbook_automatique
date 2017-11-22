@@ -23,7 +23,7 @@ $$
 
 * Basse Fréquence: $$G_0=20\log(K)$$
 * Pulsation de coupure: $$\omega_c=\frac{1}{\tau}$$
-* Pente: $$-20$$ dB/decade ($$-6$$ dB/décade)
+* Pente: $$-20$$ dB/decade ($$-6$$ dB/octave)
 
 ### Argument
 
