@@ -1,3 +1,19 @@
-# My Awesome Book
+---
+plugins:
+  - mathjax
+---
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# Automatique
+
+## Système de 1er ordre
+
+### Forme Canonique
+
+
+\\begin{equation}
+3p+1
+\\end{equation}
+
+
+
+
