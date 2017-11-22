@@ -5,14 +5,14 @@ plugins:
 
 # Automatique
 
-## Système de 1er ordre
+Livre réalisé par la promotion Apprentissage GEII de l’IUT de Brest
 
-### Forme Canonique
+## Participants
 
+* V. Choqueuse
 
-\\begin{equation}
-3p+1
-\\end{equation}
+ 
+
 
 
 
