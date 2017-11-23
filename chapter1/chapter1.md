@@ -11,6 +11,8 @@ $$
 
 ## Réponse Indicielle (échelon d’amplitude E)
 
+![](fig1.png)
+
 * Valeur Finale: $$VF=K.E$$
 * Temps de réponse ($$0.95\%$$): $$t_r=3\tau$$
 * Dépassement: $$0\%$$ (pas de dépassement)
