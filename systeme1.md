@@ -11,32 +11,6 @@ $$
 
 ## Réponse Indicielle (échelon d’amplitude E)
 
-{% chart %}
-{
-    "chart": {
-        "type": "bar"
-    },
-    "title": {
-        "text": "Fruit Consumption"
-    },
-    "xAxis": {
-        "categories": ["Apples", "Bananas", "Oranges"]
-    },
-    "yAxis": {
-        "title": {
-            "text": "Fruit eaten"
-        }
-    },
-    "series": [{
-        "name": "Jane",
-        "data": [1, 0, 4]
-    }, {
-        "name": "John",
-        "data": [5, 7, 3]
-    }]
-}
-{% endchart %}
-
 * Valeur Finale: $$VF=K.E$$
 * Temps de réponse ($$0.95\%$$): $$t_r=3\tau$$
 * Dépassement: $$0\%$$ (pas de dépassement)
