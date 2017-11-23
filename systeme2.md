@@ -10,3 +10,11 @@ $$
 * $$m$$ répresente le coefficient d'amortissement
 * $$\omega_n$$ représente la pulsation propre (en rad/s)
 
+## Réponse Indicielle (échelon d’amplitude E)
+
+## Réponse Harmonique 
+
+### Module
+
+### Argument
+

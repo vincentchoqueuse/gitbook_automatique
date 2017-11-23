@@ -21,13 +21,15 @@ $$
 
 ### Module
 
-* Basse Fréquence: $$G_0=20\log(K)$$
+* Basse-Fréquences: $$G_0=20\log(K)$$
 * Pulsation de coupure: $$\omega_c=\frac{1}{\tau}$$
 * Pente: $$-20$$ dB/decade ($$-6$$ dB/octave)
 
 ### Argument
 
-*
+* Basse-Fréquences: $$0^o$$
+* Pulsation de coupure: $$\varphi(\omega_c)=-45^o$$
+* Haute-Fréquences: $$-90^o$$
 
 
 
