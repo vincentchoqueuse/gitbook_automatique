@@ -31,6 +31,8 @@ $$
 
 #### Illustration
 
+![Réponse Harmonique](fig2.png)
+
 
 #### Valeurs Remarquables
 
