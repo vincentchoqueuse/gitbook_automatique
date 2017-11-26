@@ -11,6 +11,8 @@ $$
 
 ## Réponse Indicielle 
 
+> La réponse indicielle s’obtient en envoyant un échelon d’amplitude E à l’entrée du système.
+
 #### Illustration
 
 ![Réponse Indicielle (échelon d’amplitude E=2)](fig1.png)
@@ -23,7 +25,7 @@ $$
 
 ## Réponse Harmonique 
 
-> La réponse harmonique s’obtient en posant $$p=j\omega$$
+> La réponse harmonique s’obtient en envoyant une sinusoide de pulsation $$\omega$$ à l’entrée du système. 
 
 ### Module
 
