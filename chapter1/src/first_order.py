@@ -50,5 +50,5 @@ ax.annotate('20.log10(K)-3', xy=(0.01, 20*np.log10(K)-3), xytext=(0.03,-5),color
             )
 
 ax.text(1/tau-0.05, -26.5,'$1/\\tau$',color='red')
-plt.savefig("../fig1.png")
+plt.savefig("../fig2.png")
 plt.show()
